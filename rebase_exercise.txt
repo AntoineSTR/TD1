@@ -1,0 +1,5 @@
+Changing Multiple Commit Messages
+Git interactive rebase
+First paragraph from Git-Tools-Rewriting-History
+First and second paragraphs from Changing Multiple Commit Messages
+Paul
