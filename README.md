@@ -1,4 +1,4 @@
-# TD1
+Membres de l'équipe : Antoine, Gautier, Justine, Tancrede
 
 BLABLA
 TEST
